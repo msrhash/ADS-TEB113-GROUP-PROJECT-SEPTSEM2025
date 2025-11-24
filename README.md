@@ -2,11 +2,11 @@
 ## Group Members
 | No. | Members                                | Student ID  | Course    |
 |-----|----------------------------------------|-------------|-----------|
-| 1. | Amira Nadia binti Amir Hamzah           | Student ID  | Computer Science   |
-| 2. | Dhivya A/P Arujanan                     | Student ID  | Computer Science   |
-| 3. | Erissa Binti Saiful Affendy             | Student ID  | Computer Science   |
-| 4. | Hajar Maisarah Binti Ashari             | Student ID  | Computer Science   |
-| 5. | Syaheda Nadia Binti Azman               | Student ID  | Computer Science   |
+| 1. | Amira Nadia binti Amir Hamzah           | 24008792    | Computer Science   |
+| 2. | Dhivya A/P Arujanan                     | 24000046    | Computer Science   |
+| 3. | Erissa Binti Saiful Affendy             | 24007530    | Computer Science   |
+| 4. | Hajar Maisarah Binti Ashari             | 24000225    | Computer Science   |
+| 5. | Syaheda Nadia Binti Azman               | 24000997    | Computer Science   |
 
 ## Description
 The Smart KTMB Route Planner System helps users plan long-distance train trips more  easily by showing possible routes and required transfers between ETS and Intercity lines. The current system only searches for direct routes and returns “no available route” if none  exists. The improved system finds efficient routes, including transfers.
