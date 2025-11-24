@@ -11,6 +11,13 @@
 ## Description
 The Smart KTMB Route Planner System helps users plan long-distance train trips more  easily by showing possible routes and required transfers between ETS and Intercity lines. The current system only searches for direct routes and returns “no available route” if none  exists. The improved system finds efficient routes, including transfers.
 
+## Using Visual Studio
+1. Open Visual Studio.
+2. Open the folder or project containing `BaselineRoutePlanner.cpp` and `OptimizedRoutePlanner.cpp`.
+3. Build the solution (Ctrl + Shift + B).
+4. Run the program (F5 or Ctrl + F5).
+5. Follow the on-screen prompts to search for routes.
+
 ## How to run the program
 1. Enter the origin station when prompted.
 2. Enter the destination station when prompted.
